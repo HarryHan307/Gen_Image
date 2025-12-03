@@ -1,0 +1,418 @@
+번호,이미지명,Aspect Ratio,크기,카테고리,용도,프롬프트
+3,모델 피라미드,3:2,600x400,Infographic,Opus/Sonnet/Haiku 계층 설명,"Create a clean 3-tier pyramid infographic comparing Claude AI model tiers in 3:2 aspect ratio (600x400px).
+
+LAYOUT & STRUCTURE:
+- Pyramid shape divided into 3 horizontal sections
+- Top tier smallest, bottom tier largest
+- Slight 3D perspective with subtle shadow beneath for depth
+- Clean separation lines between tiers
+
+TIER DETAILS:
+
+TOP TIER (Opus 4.5):
+- Label: ""Opus 4.5"" in bold white text
+- Color: Rich burnt orange gradient (#C15F3C to #A04D30)
+- Icon: Minimalist crown or diamond symbol (white)
+- Subtitle: ""Most Powerful"" in smaller text
+- Premium, luxurious feel
+
+MIDDLE TIER (Sonnet 4.5):
+- Label: ""Sonnet 4.5"" in dark text
+- Color: Warm silver/gray gradient (#9CA3AF to #6B7280)
+- Icon: Balance scale symbol (dark gray)
+- Subtitle: ""Balanced""
+- Professional, reliable feel
+
+BOTTOM TIER (Haiku 4.5):
+- Label: ""Haiku 4.5"" in dark text
+- Color: Soft bronze/beige gradient (#D4A37F to #C49A6C)
+- Icon: Lightning bolt symbol (dark)
+- Subtitle: ""Fast & Affordable""
+- Accessible, efficient feel
+
+STYLE & QUALITY:
+- Modern flat design aesthetic like Stripe or Notion
+- Background: Pure white (#FFFFFF)
+- Typography: Clean sans-serif font (Inter or SF Pro style)
+- No decorative elements, minimal and professional
+- Crisp edges, vector-style rendering
+- High resolution, suitable for presentation or web"
+4,Opus 아이콘,1:1,200x200,Icon,최고 성능 모델 상징,"Create a premium app icon representing the most advanced AI model ""Opus"" in 1:1 square format (200x200px).
+
+MAIN ELEMENT:
+- Stylized human brain formed by glowing neural network connections
+- Brain shape created by interconnected nodes and flowing lines
+- Geometric, low-poly aesthetic with organic feel
+- Nodes as small circles, connections as elegant curved lines
+
+COLOR SCHEME:
+- Primary: Burnt orange (#C15F3C) for main neural pathways
+- Secondary: Warm gold (#FFD700) for glowing node highlights
+- Tertiary: Soft cream (#FDF4E7) for subtle inner glow
+- Gradient flow from deep orange center to golden edges
+
+EFFECTS & LIGHTING:
+- Subtle outer glow suggesting intelligence and power
+- Inner luminosity emanating from core
+- Premium, luxurious feeling like high-end product logo
+- Soft ambient light, no harsh shadows
+
+STYLE SPECIFICATIONS:
+- Minimal, iconic, instantly memorable
+- Pure white background (#FFFFFF)
+- No text, symbol only
+- Suitable for app icon, badge, or favicon use
+- Clean vector-style rendering
+- Centered composition with balanced negative space
+
+QUALITY: High resolution, crisp edges, professional grade"
+5,Constitutional AI,3:2,600x400,Infographic,헌법적 AI 학습 사이클,"Create a circular process diagram explaining Constitutional AI training method in 3:2 format (600x400px).
+
+LAYOUT:
+- Three stages arranged in clockwise circular flow
+- Center contains focal element
+- Curved arrows connecting each stage
+- Clean, balanced composition
+
+THREE STAGES (Clockwise from top):
+
+STAGE 1 - ""PRINCIPLES"" (12 o'clock position):
+- Icon: Open book or scroll with checkmarks
+- Color: Deep orange (#C15F3C)
+- Label: ""원칙 (Principles)""
+- Description: ""AI receives ethical guidelines""
+- Visual: Document with list items
+
+→ Curved arrow (orange to beige gradient)
+
+STAGE 2 - ""SELF-EVALUATION"" (4 o'clock position):
+- Icon: Magnifying glass examining chat bubble
+- Color: Warm beige (#D4A37F)
+- Label: ""자기평가 (Self-Evaluation)""
+- Description: ""AI reviews its own responses""
+- Visual: AI examining output with critical eye
+
+→ Curved arrow (beige to gold gradient)
+
+STAGE 3 - ""IMPROVEMENT"" (8 o'clock position):
+- Icon: Upward trending arrow with sparkle
+- Color: Soft gold (#E5C8B2)
+- Label: ""개선 (Improvement)""
+- Description: ""AI refines responses""
+- Visual: Polished, improved output symbol
+
+→ Curved arrow (gold to orange gradient, completing cycle)
+
+CENTER ELEMENT:
+- Small stylized ""AI"" text or brain icon
+- Subtle glow effect
+- Represents the learning AI
+
+STYLE:
+- Clean infographic style (Harvard Business Review aesthetic)
+- Background: Off-white (#FAFAFA)
+- Typography: Clean sans-serif, bilingual labels
+- Professional, educational, easy to understand
+- High resolution, presentation-ready"
+7,요리사 비유,3:2,500x350,Illustration,RLHF 개념 쉬운 설명,"Create an illustration explaining RLHF (Reinforcement Learning from Human Feedback) through a chef metaphor in 3:2 format (500x350px).
+
+SCENE COMPOSITION:
+
+LEFT SIDE - THE CHEF (represents AI):
+- Friendly cartoon chef character
+- White chef hat and clean apron
+- Apron accent color: Warm orange (#C15F3C)
+- Holding two different dishes on plates (response options)
+- Expression: Curious, eager-to-learn, friendly smile
+- Slightly tilted head showing attentiveness
+
+CENTER - THE INTERACTION:
+- Chef presenting dishes toward customers
+- Dotted lines or gentle arrows showing feedback flow
+- Small speech bubbles with thumbs up/down icons
+- Visual connection between chef and customers
+
+RIGHT SIDE - CUSTOMERS (represent Human Evaluators):
+- 2-3 diverse, friendly customers seated at table
+- One customer pointing to preferred dish
+- Expressions: Smiling, engaged, helpful
+- Casual restaurant setting with simple table
+
+BACKGROUND:
+- Simple, minimal kitchen/restaurant environment
+- Soft cream/beige tones (#FDF4E7)
+- Warm, inviting atmosphere
+- Blurred/simplified background elements
+
+CHARACTER STYLE:
+- Friendly illustration style (Slack, Notion, Dropbox aesthetic)
+- Soft rounded shapes, no harsh edges
+- Large expressive eyes, simple features
+- Warm, approachable character design
+
+COLOR PALETTE:
+- Primary: Warm orange (#C15F3C) for accents
+- Secondary: Cream (#FDF4E7), soft beige
+- Skin tones: Warm, diverse representation
+- Dishes: Colorful but not overwhelming
+
+QUALITY: High resolution, suitable for blog or presentation, no text needed (image tells the story)"
+10,코드 에디터,16:9,700x400,Screenshot,코딩 능력 시각화,"Create a realistic code editor interface showing AI-assisted coding in 16:9 format (700x400px).
+
+EDITOR LAYOUT (VS Code style):
+
+LEFT SIDEBAR (File Explorer):
+- Project folder structure visible
+- Files listed: main.py, utils.py, config.py, requirements.txt
+- Folder icons with warm orange accent (#C15F3C)
+- Clean hierarchy indication
+
+MAIN EDITOR AREA:
+- Dark theme (One Dark Pro or Dracula style)
+- Background: Dark charcoal (#1E1E1E)
+- Python code with proper syntax highlighting
+
+CODE CONTENT (visible and readable):
+```python
+# Claude-generated code example
+def analyze_sentiment(text: str) -> dict:
+    \"\"\"
+    Analyze the sentiment of given text.
+    Returns confidence scores for each emotion.
+    \"\"\"
+    emotions = {
+        ""positive"": 0.0,
+        ""negative"": 0.0,
+        ""neutral"": 0.0
+    }
+
+    # Process text and calculate scores
+    processed = preprocess_text(text)
+    scores = model.predict(processed)
+
+    return {
+        ""sentiment"": max(scores, key=scores.get),
+        ""confidence"": max(scores.values()),
+        ""details"": scores
+    }
+```
+
+SYNTAX HIGHLIGHTING:
+- Keywords (def, return): Purple (#C678DD)
+- Strings: Green (#98C379)
+- Comments: Gray (#5C6370)
+- Functions: Blue (#61AFEF)
+- Variables: White (#ABB2BF)
+
+RIGHT SIDE PANEL (optional):
+- AI assistant suggestion panel
+- Warm orange accent (#C15F3C) for AI highlights
+- Subtle glow indicating AI assistance
+
+DETAILS:
+- Line numbers visible (starting from 1)
+- Proper indentation (4 spaces)
+- Cursor blinking on active line
+- Tab showing filename ""main.py""
+
+STYLE: Photorealistic editor screenshot, professional developer workspace, clean and error-free
+QUALITY: High resolution, crisp text rendering"
+12,컨텍스트 윈도우,16:9,600x350,Infographic,200K 토큰 = 책 3-4권,"Create an infographic visualizing Claude's 200K token context window capacity in 16:9 format (600x350px).
+
+LAYOUT (Left to Right flow):
+
+LEFT SECTION - THE NUMBER:
+- Large, bold display: ""200,000""
+- Subtitle below: ""tokens""
+- Color: Warm orange (#C15F3C)
+- Icon above or beside: Document stack or text file icon
+- Modern, impactful typography
+
+CENTER - CONNECTOR:
+- Large ""="" symbol or decorative arrow
+- Gradient from orange to beige
+- Visual bridge between concepts
+- Clean, minimal design
+
+RIGHT SECTION - BOOK VISUALIZATION:
+- Stack of 3-4 colorful books
+- Books slightly tilted/staggered for visual interest
+- Book colors: Orange, beige, cream, warm brown tones
+- Text below: ""3-4 novels"" or ""150,000+ words""
+- Warm, inviting illustration style
+
+BOTTOM SECTION (Additional context):
+- Row of small icons with labels:
+  - 📄 ""Hundreds of documents""
+  - 💻 ""Entire codebase""
+  - 📚 ""Multiple research papers""
+- Subtle, supporting information
+- Smaller scale than main comparison
+
+COLOR PALETTE:
+- Primary: Burnt orange (#C15F3C)
+- Secondary: Warm beige (#D4A37F), cream (#FDF4E7)
+- Background: Pure white (#FFFFFF)
+- Text: Dark charcoal (#333333)
+
+STYLE:
+- Clean, modern infographic
+- Easy to understand at a glance
+- Professional but friendly
+- Suitable for social media sharing
+
+QUALITY: High resolution, vector-style clean edges"
+18,AI 추천 플로우,7:5,700x500,Flowchart,Claude/GPT/Gemini 선택 가이드,"Create a decision tree flowchart helping users choose between Claude, GPT, and Gemini in 7:5 format (700x500px).
+
+FLOWCHART STRUCTURE:
+
+START NODE (Top center):
+- Rounded rectangle shape
+- Text: ""What do you need AI for?""
+- Color: Neutral gray (#6B7280)
+- Icon: Question mark or thinking symbol
+
+DECISION DIAMONDS & RESULT BOXES:
+
+BRANCH 1 - CODING:
+- Diamond: ""Coding & Development?""
+- If YES → Orange box: ""Claude""
+- Icon: Code brackets symbol
+- Subtitle: ""Best coding (77.2% SWE-bench)""
+- Color: #C15F3C (Claude orange)
+
+BRANCH 2 - WRITING:
+- Diamond: ""Writing & Editing?""
+- If YES → Green box: ""GPT""
+- Icon: Pen/document symbol
+- Subtitle: ""Natural writing, memory""
+- Color: #22C55E (OpenAI green)
+
+BRANCH 3 - RESEARCH:
+- Diamond: ""Deep Research?""
+- If YES → Blue box: ""Gemini""
+- Icon: Search/magnifying glass
+- Subtitle: ""2M context, multi-source""
+- Color: #3B82F6 (Google blue)
+
+BRANCH 4 - SAFETY:
+- Diamond: ""Safety-Critical Task?""
+- If YES → Orange box: ""Claude""
+- Icon: Shield symbol
+- Subtitle: ""Constitutional AI, ethical""
+- Color: #C15F3C
+
+BRANCH 5 - BUDGET:
+- Diamond: ""Budget Priority?""
+- If YES → Blue box: ""Gemini""
+- Icon: Dollar/coin symbol
+- Subtitle: ""Most cost-effective""
+- Color: #3B82F6
+
+LAYOUT:
+- Top-to-bottom primary flow
+- Horizontal branches for decisions
+- Clear ""YES/NO"" labels on arrows
+- Logical, easy-to-follow path
+
+STYLE:
+- Clean flowchart design
+- Rounded corners on all shapes
+- White background (#FFFFFF)
+- Professional, easy to follow
+- Color-coded by AI provider
+
+QUALITY: High resolution, presentation-ready"
+19,안전성 방패,1:1,300x300,Icon,AI 안전성 상징,"Create a shield icon symbolizing Claude's AI safety approach in 1:1 square format (300x300px).
+
+SHIELD SHAPE:
+- Classic heraldic shield form (pointed bottom)
+- Slightly rounded edges for modern feel
+- Subtle 3D effect with gradient shading
+- Balanced proportions, vertically centered
+
+INTERIOR DESIGN:
+- Circuit board pattern filling the shield interior
+- Neural network nodes connected by thin lines
+- Pattern density: Medium (not too busy)
+- Lines follow shield contours organically
+
+CENTER EMBLEM:
+- Stylized checkmark symbol (representing safety verification)
+- OR abstract brain icon
+- OR letter ""C"" for Claude
+- Positioned at visual center of shield
+- Slightly larger scale for emphasis
+
+COLOR SCHEME:
+- Primary shield: Burnt orange (#C15F3C)
+- Circuit lines: Warm cream (#FDF4E7)
+- Center emblem: Gold highlights (#FFD700)
+- Gradient: Darker orange at edges, lighter center
+- Subtle metallic sheen effect
+
+EFFECTS:
+- Outer glow: Soft orange radiance
+- Inner glow: Warm golden light from center
+- Subtle shadow beneath for grounding
+- Premium, trustworthy appearance
+
+STYLE:
+- Tech company security badge aesthetic
+- Minimal but detailed
+- Professional, trustworthy
+- Pure white background (#FFFFFF)
+- No text, icon only
+- Suitable for logo, certification badge, or app icon
+
+QUALITY: High resolution, crisp vector-style edges, premium feel"
+20,협업 일러스트,16:9,700x400,Illustration,미래 비전/마무리 이미지,"Create an illustration depicting harmonious human-AI collaboration in 16:9 format (700x400px).
+
+SCENE COMPOSITION:
+
+LEFT SIDE - HUMAN:
+- Professional person seated at modern desk
+- Diverse representation (any gender/ethnicity welcome)
+- Relaxed, confident posture leaning slightly forward
+- Looking at screen with slight smile of satisfaction
+- Casual business attire (modern, not formal)
+- Natural, realistic proportions
+
+CENTER - THE CONNECTION:
+- Holographic or translucent AI assistant figure
+- Floating beside/slightly above the desk
+- Abstract, friendly form (geometric shapes forming humanoid)
+- NOT robotic - organic and approachable
+- Glowing with warm orange (#C15F3C) accents
+- Particles or light beams connecting human and AI
+- Suggests communication and collaboration
+
+RIGHT SIDE - WORKSPACE:
+- Modern, clean desk setup
+- Sleek monitor showing collaborative work (code or document)
+- Minimalist desk accessories
+- Small plant or warm decorative element
+- Large window with soft natural light
+
+ATMOSPHERE & LIGHTING:
+- Warm, optimistic golden hour lighting
+- Sunset-like warm tones from window
+- Soft shadows, no harsh contrasts
+- Futuristic but inviting, not cold
+- Productive, harmonious mood
+
+COLOR PALETTE:
+- Primary: Warm orange (#C15F3C) for AI elements
+- Secondary: Soft cream/beige (#FDF4E7) for ambient light
+- Tertiary: White and gold highlights
+- Human/furniture: Natural, muted earth tones
+- Window light: Warm golden yellow
+
+STYLE:
+- Modern tech illustration (Apple, Google marketing aesthetic)
+- Semi-realistic with stylized elements
+- Warm and inviting, optimistic
+- Hopeful vision of AI-human future
+- NOT dystopian or intimidating
+
+QUALITY: High resolution, professional hero image quality, suitable for website banner or presentation cover"
