@@ -1,0 +1,68 @@
+title: 논문 연구자를 위한 성경 인포그래픽 - 새 힘을 얻으리니
+title_en: Bible Infographic for Thesis Researcher - Renewed Strength
+author: "Claude"
+author_link: ""
+source_links: []
+image: ""
+alt_text: 스터디카페에서 논문 수정하는 연구자를 위한 따뜻한 성경 일러스트레이션
+alt_text_en: Warm Bible illustration for thesis researcher at study cafe
+prompt: |
+  따뜻한 스타일의 인포그래픽 일러스트레이션을 생성해주세요.
+
+  장면 설정:
+  - 아늑한 스터디카페 창가 자리에 한 사람이 앉아있습니다
+  - 테이블 위에는 노트북, 논문 자료, 형광펜, 따뜻한 커피 한 잔이 놓여있습니다
+  - 큰 유리창을 통해 황금빛 석양이 따스하게 비쳐들어옵니다
+
+  상징적 요소:
+  - 창문 너머 하늘에 독수리 한 마리가 날개를 펴고 상승하는 모습이 보입니다
+  - 빛이 연구자의 어깨와 작업 공간을 부드럽게 감싸고 있습니다
+
+  인포그래픽 요소:
+  - 이미지 하단 또는 측면에 우아한 한글 타이포그래피로 성경 구절 배치:
+  - "오직 여호와를 앙망하는 자는 새 힘을 얻으리니" (이사야 40:31)
+  - 폰트는 세련된 명조체 스타일, 부드러운 그림자 효과
+
+  스타일:
+  - 따뜻한 파스텔 톤 (오렌지, 황금색, 크림색, 부드러운 갈색)
+  - 수채화 느낌의 동화책 일러스트레이션 스타일
+  - 둥글고 부드러운 선, 따뜻한 조명
+  - Clean, minimalist infographic layout
+  - 전체적으로 희망적이고 평화로운 분위기
+
+  품질: 고해상도, 부드러운 자연광, 따뜻한 색감 보정
+prompt_en: |
+  Create a warm-style infographic illustration.
+
+  Scene Setting:
+  - A person sits by the window of a cozy study cafe
+  - On the table: laptop, thesis papers, highlighters, and a warm cup of coffee
+  - Golden sunset light warmly streams through the large glass window
+
+  Symbolic Elements:
+  - Through the window, an eagle is seen soaring with wings spread in the sky
+  - Light gently wraps around the researcher's shoulders and workspace
+
+  Infographic Elements:
+  - Place elegant Korean typography with Bible verse at bottom or side:
+  - "Those who hope in the LORD will renew their strength" (Isaiah 40:31)
+  - Use refined serif-style font with soft shadow effects
+
+  Style:
+  - Warm pastel tones (orange, golden, cream, soft brown)
+  - Watercolor-style storybook illustration
+  - Rounded, soft lines with warm lighting
+  - Clean, minimalist infographic layout
+  - Overall hopeful and peaceful atmosphere
+
+  Quality: High resolution, soft natural lighting, warm color grading
+prompt_note: |
+  대상: 스터디카페에서 논문 수정하는 연구자
+  성경 구절: 이사야 40:31 - 오직 여호와를 앙망하는 자는 새 힘을 얻으리니 독수리가 날개치며 올라감 같을 것이요 달려도 곤비하지 아니하겠고 걸어도 피곤하지 아니하리로다
+prompt_note_en: |
+  Target: Thesis researcher revising papers at study cafe
+  Bible Verse: Isaiah 40:31 - But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.
+reference_note: ""
+reference_note_en: ""
+submitter: ""
+submitter_link: ""
